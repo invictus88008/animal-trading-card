@@ -1,0 +1,33 @@
+/* add your CSS here */
+.outer-box {
+	border:1px solid #999;
+	width:350px;
+	padding:10px;
+	box-shadow:5px 5px #eee;
+}
+img {
+	width:350px;
+	height:350px;
+}
+h3 {
+	font-size:30px;
+	line-height:.5;
+}
+.box-content {
+	margin-top:5px;
+	border:1px solid #999;
+	text-align:left;
+	padding:5px;
+}
+span {
+	font-weight:700;
+}
+.intro {
+	font-style:italic;
+}
+ul {
+	list-style:none;
+}
+li {
+	margin:0;
+}
